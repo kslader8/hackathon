@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/fed61006-b3f3-48eb-b863-13d930fa7423/resourceGroups/segl-credit/providers/Microsoft.Web/sites/segl-credit-app",
+    "appService.deploySubpath": ""
+}
